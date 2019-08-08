@@ -1,2 +1,3 @@
 # Team-Regulation-and-Code
-Contain regulation for team members to follow
+
+This repository contains regulation for team members to follow
